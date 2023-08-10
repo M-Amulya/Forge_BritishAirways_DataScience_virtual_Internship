@@ -1,4 +1,4 @@
-# Forge_BritishAirways_DataScience_virtual_Internship
+# Forge_British Airways_DataScience_virtual_Internship
 This Internship contains two tasks:
 
 **Task 1:**
