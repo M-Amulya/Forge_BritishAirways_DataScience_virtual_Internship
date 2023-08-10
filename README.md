@@ -29,6 +29,6 @@ Build a predictive model to understand factors that influence buying behaviour.
 
 Task explaination is given in getting_started.ipynb file.
 
-**Technologies used :-** **Maching Learning**, **Data Science**, **Data Visualisation**, **Power point**
+**Technologies used :-** **Maching Learning**, **Data Science**, **Data Visualisation**, **Power point**, **EDA**, **Random Forest Classifier**
 
 
