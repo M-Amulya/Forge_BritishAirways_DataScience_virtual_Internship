@@ -14,7 +14,7 @@ Scrape and analyse customer review data to uncover findings for British Airways.
    
 Task explaination is given in getting_started.ipynb file.
 
-**Technologies used :-** **web scraping**, **Data Manipulation**, **power point**, **Python**, **Jupyter nootbook**
+**Technologies used :-** **web scraping**, **Data Manipulation**, **power point**, **Python**, **Jupyter nootbook**, **EDA**, **NLP**, **Time Series Analysis**, **Sentiment Analysis using Vader**.
 
 **Task 2:**
 
